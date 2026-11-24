@@ -10,7 +10,7 @@ that has a tsundere personality
 ## Main features
 - **Opening files:** Yeah, I know big feature
 - **Editing files:** Another, really big and unique feature
-- **Saving files:** This feature makes it the next Notepad repalcer
+- **Saving files:** This feature makes it the next Notepad replacer
 - **Can Exit the program:** Literally better than vim/neovim. 
 - **Has a tsundere "personality":** Now this is the main "feature" of this
 
@@ -23,7 +23,7 @@ The tsundere personality is very simple:
 - There is a chance of her refusing to open a file. It is about 15% on default mood
   - The chance of refusal goes higher with worse mood.
 
-The moood:
+The mood:
 
 | mood | refusal chances |
 |------|-----------------|
